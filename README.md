@@ -8,12 +8,15 @@ Site Reliability Engineer | DevOps | Cloud Enthusiast
 🔗 LinkedIn
  | GitHub
  | Portfolio
-
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------
 👨‍💻 About Me
 
 I’m an AWS Certified Site Reliability & DevOps Engineer with over 5 years of experience designing, automating, and managing hybrid cloud infrastructures across AWS, Azure, and GCP. I specialize in Infrastructure as Code (IaC), CI/CD pipelines, container orchestration, and observability frameworks that enhance reliability, scalability, and security.
 
 With hands-on expertise in Terraform, Ansible, Jenkins, and Kubernetes, I have successfully driven cloud migrations, reduced deployment time, and built compliance-ready cloud solutions in financial and healthcare sectors. My focus is on automation, continuous delivery, and operational excellence to achieve high availability, zero downtime, and regulatory compliance.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Technical Skills
 
@@ -63,6 +66,9 @@ Automated daily operational workflows using Python, Bash, and PowerShell, saving
 
 Collaborated across Agile/Scrum teams to improve deployment reliability and accelerate incident resolution.
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 🎓 Education
 
 Master of Computing and Information Systems
@@ -71,6 +77,7 @@ Youngstown State University, Ohio, USA (Aug 2023 – May 2025) | CGPA: 3.9/4.0
 Bachelor of Engineering – Computer Science and Engineering
 Tirumala Engineering College (JNTU Kakinada), India (Jun 2018 – May 2022) | CGPA: 3.34/4.0
 
+-------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Projects
 
 HIPAA-Compliant Cloud Automation: Automated provisioning and deployment pipelines across AWS and Azure using Terraform, Jenkins, and GitLab to ensure compliance and scalability.
@@ -78,6 +85,8 @@ HIPAA-Compliant Cloud Automation: Automated provisioning and deployment pipeline
 End-to-End Observability Platform: Built dashboards using Prometheus, Grafana, and Datadog to enable real-time visibility and incident reduction.
 
 CI/CD Modernization: Integrated SonarQube, Nexus, and Kubernetes for secure release automation and 35% faster deployment cycles.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 🏆 Certifications
 
@@ -91,6 +100,7 @@ Docker & Kubernetes Certified Engineer
 
 Jenkins Certified Engineer
 
+-------------------------------------------------------------------------------------------------------------------------------------------
 📬 Let’s Connect!
 
 I’m passionate about Cloud Reliability, Automation, and DevOps excellence.
