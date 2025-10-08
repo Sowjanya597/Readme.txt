@@ -30,8 +30,7 @@ Version Control & Collaboration: Git, GitHub, GitLab, Bitbucket, TFS, Jira, Agil
 Core Competencies: Root Cause Analysis, Debugging, Performance Tuning, Problem Solving, Production Support, Cross-Functional Collaboration, Strategy Development
 
 💼 Work Experience
-Senior Site Reliability Engineer – UnitedHealth Group
-
+**Senior Site Reliability Engineer – UnitedHealth Group**
 📍 Raleigh, NC | June 2024 – Present
 
 Engineered and deployed HIPAA-compliant hybrid cloud applications across AWS and Azure using Terraform and CloudFormation, cutting provisioning time by 40% while ensuring compliance.
@@ -48,7 +47,7 @@ Conducted security audits (SOX, HIPAA, PCI-DSS) and automated remediation proces
 
 Authored automation scripts in Python, Bash, and PowerShell, saving 20+ hours per week and improving reliability.
 
-Site Reliability Engineer – JP Morgan
+**Site Reliability Engineer – JP Morgan**
 
 📍 Hyderabad, India | Dec 2020 – Nov 2023
 
