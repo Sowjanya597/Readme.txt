@@ -1,102 +1,102 @@
-Hi, I'm Lakshmi Sowjanya Mettu 👋
+
+Hi, I’m Lakshmi Sowjanya Mettu 👋
 
 Site Reliability Engineer | DevOps | Cloud Enthusiast
 
-📍 Ohio, USA
-📧 mettulakshmisowjanya5@gmail.com
- | 📞 +1 (724)-370-0097
- |linkedin.com/in/lakshmi-sowjanya-mettu-943532249
- | 🌐 Portfolio
- 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**👨‍💻 About Me**
+📍 Ohio, USA 📧 mettulakshmisowjanya5@gmail.com
+ 📞 +1 (724)-370-0097
+🔗 LinkedIn
+ | GitHub
+ | Portfolio
 
-I am a Site Reliability Engineer with over 5 years of experience in DevOps, Cloud Computing, and Systems Administration across AWS, Azure, and GCP. My work focuses on building resilient, automated, and scalable infrastructures using Terraform, Kubernetes, Docker, and CI/CD pipelines.
+👨‍💻 About Me
 
-I specialize in implementing SLOs, SLIs, and SLAs to optimize service delivery, improve reliability, and reduce downtime. With strong expertise in automation and monitoring, I help organizations deliver seamless, cost-optimized, and highly available systems.
+I’m an AWS Certified Site Reliability & DevOps Engineer with over 5 years of experience designing, automating, and managing hybrid cloud infrastructures across AWS, Azure, and GCP. I specialize in Infrastructure as Code (IaC), CI/CD pipelines, container orchestration, and observability frameworks that enhance reliability, scalability, and security.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+With hands-on expertise in Terraform, Ansible, Jenkins, and Kubernetes, I have successfully driven cloud migrations, reduced deployment time, and built compliance-ready cloud solutions in financial and healthcare sectors. My focus is on automation, continuous delivery, and operational excellence to achieve high availability, zero downtime, and regulatory compliance.
 
-**🛠️ Technical Skills**
+🛠️ Technical Skills
 
 Cloud Platforms: AWS (EC2, EKS, Lambda, S3, RDS, DynamoDB), Azure, GCP
-DevOps & IaC Tools: Terraform, Ansible, Chef, Puppet, Jenkins, GitLab, ArgoCD, Flux
-Containerization: Docker, Kubernetes, Helm
-Programming & Scripting: Python, Bash, PowerShell, Java, Perl
-Monitoring & Observability: Prometheus, Grafana, Datadog, New Relic, Splunk, AppDynamics, Dynatrace
-Databases: Oracle, PostgreSQL, MySQL, SQL Server, MongoDB, DynamoDB
-Version Control: Git, GitHub, Bitbucket, SVN, TFS
-Methodologies: Agile, Scrum, CI/CD, GitOps, DevSecOps
+Infrastructure as Code & Automation: Terraform, Ansible, CloudFormation, Puppet, Chef
+CI/CD Tools: Jenkins, GitLab, Nexus, SonarQube, Azure DevOps
+Containers & Orchestration: Docker, Kubernetes, Helm
+Monitoring & Observability: Prometheus, Grafana, Splunk, Datadog, AppDynamics, Dynatrace, New Relic
+Scripting & Programming: Python, Bash, PowerShell, Perl, YAML, JSON
+Version Control & Collaboration: Git, GitHub, GitLab, Bitbucket, TFS, Jira, Agile/Scrum
+Core Competencies: Root Cause Analysis, Debugging, Performance Tuning, Problem Solving, Production Support, Cross-Functional Collaboration, Strategy Development
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**💼 Work Experience**
+💼 Work Experience
+Senior Site Reliability Engineer – UnitedHealth Group
 
+📍 Raleigh, NC | June 2024 – Present
 
-**Senior Site Reliability Engineer – United Health Group**  Nov 2024 – Present | Raleigh, NC
+Engineered and deployed HIPAA-compliant hybrid cloud applications across AWS and Azure using Terraform and CloudFormation, cutting provisioning time by 40% while ensuring compliance.
 
-Designed and deployed scalable cloud applications on AWS (EC2, S3, RDS, Lambda).
+Built and optimized secure CI/CD pipelines with Jenkins and GitLab, integrating SonarQube, Nexus, and Kubernetes, reducing release cycles by 35% and achieving 99.5% deployment success.
 
-Implemented CI/CD pipelines with Jenkins & GitLab, integrated observability with Prometheus & Grafana.
+Designed observability dashboards with Prometheus, Grafana, Datadog, Splunk, and AppDynamics, reducing MTTR by 40% and achieving 99.9% SLA compliance.
 
-Automated infrastructure with Terraform, CloudFormation, and Ansible.
+Developed disaster recovery playbooks and automated failover testing, cutting recovery time from 4 hours to under 45 minutes.
 
-Managed on-call rotations, reducing MTTR and improving service reliability.
+Automated multi-cloud infrastructure provisioning across AWS and Azure, improving deployment efficiency by 50%.
 
-**Site Reliability Engineer – Fannie Mae**  Oct 2023 – Nov 2024 | Washington, D.C.
+Conducted security audits (SOX, HIPAA, PCI-DSS) and automated remediation processes for 100% compliance.
 
-Automated provisioning using Terraform, Puppet, and Chef, reducing deployment times.
+Authored automation scripts in Python, Bash, and PowerShell, saving 20+ hours per week and improving reliability.
 
-Improved uptime by 30% through proactive monitoring and incident response.
+Site Reliability Engineer – JP Morgan
 
-Migrated infrastructure and managed TFS, SharePoint, and AWS ELB/EKS environments.
+📍 Hyderabad, India | Dec 2020 – Nov 2023
 
+Automated provisioning of hybrid cloud infrastructure with Terraform and Ansible, reducing deployment time by 50%.
 
-**Site Reliability Engineer – JP Morgan** Dec 2020 – Sep 2023 | Hyderabad, India
+Led the migration of 50+ financial applications to AWS and Azure, achieving 20% cost savings and full SOX/PCI-DSS compliance.
 
-Implemented observability with Grafana, Dynatrace, Prometheus, enabling proactive performance monitoring.
+Enhanced CI/CD pipelines with Jenkins, Nexus, and SonarQube, increasing release frequency by 30% and reducing failures by 25%.
 
-Automated deployments with Python, Bash, and AWS Lambda.
+Implemented proactive monitoring with Prometheus, Grafana, and Splunk, preventing 200+ outages annually and maintaining 99.9% uptime.
 
-Containerized applications using Docker & Kubernetes, improving scalability and reliability.
+Developed disaster recovery and failover frameworks, reducing recovery time by 60%.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Automated daily operational workflows using Python, Bash, and PowerShell, saving 15+ hours weekly.
 
-**🎓 Education**
+Collaborated across Agile/Scrum teams to improve deployment reliability and accelerate incident resolution.
 
-Master’s in Computer & Information Systems – Youngstown State University
+🎓 Education
 
-Bachelor’s in Electronics & Communication Engineering – JNTUH, Hyderabad, India
+Master of Computing and Information Systems
+Youngstown State University, Ohio, USA (Aug 2023 – May 2025) | CGPA: 3.9/4.0
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Bachelor of Engineering – Computer Science and Engineering
+Tirumala Engineering College (JNTU Kakinada), India (Jun 2018 – May 2022) | CGPA: 3.34/4.0
 
-**🚀 Projects**
+🚀 Projects
 
-End-to-End Observability Platform – Implemented using Grafana, Prometheus, and Dynatrace.
+HIPAA-Compliant Cloud Automation: Automated provisioning and deployment pipelines across AWS and Azure using Terraform, Jenkins, and GitLab to ensure compliance and scalability.
 
-Cloud Infrastructure Automation – Automated AWS & Azure provisioning with Terraform & Ansible.
+End-to-End Observability Platform: Built dashboards using Prometheus, Grafana, and Datadog to enable real-time visibility and incident reduction.
 
-CI/CD Optimization – Reduced build & deployment times with Jenkins, GitLab, and Kubernetes.
+CI/CD Modernization: Integrated SonarQube, Nexus, and Kubernetes for secure release automation and 35% faster deployment cycles.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🏆 Certifications
 
-**🏆 Certifications**
+AWS Certified Solutions Architect – Associate
 
-AWS Certified Cloud Engineer - Professional 
+AWS Certified DevOps Engineer – Professional
 
-DevOps/Cloud certifications
+Terraform Associate
 
-Jenkins,Docker certified Engineer
+Docker & Kubernetes Certified Engineer
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Jenkins Certified Engineer
 
+📬 Let’s Connect!
 
-**📬 Let’s Connect!**
-
-Feel free to reach out if you’d like to collaborate, discuss technology, or explore new opportunities.
-
-📧 Email: mettulakshmisowjanya5@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/lakshmi-sowjanya-mettu-943532249
+I’m passionate about Cloud Reliability, Automation, and DevOps excellence.
+Feel free to connect for collaboration or opportunities!
+📧 mettulakshmisowjanya5@gmail.com
+ 📞 +1 (724) 370-0097
 
 💻 GitHub: https://github.com/Sowjanyamettu
 
